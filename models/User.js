@@ -47,15 +47,3 @@ const User = model('User', userSchema);
 
 // export the User model
 module.exports = User;
-
-
-
-
-
-
-
-
-
-
-// export User Model
-module.exports = User;

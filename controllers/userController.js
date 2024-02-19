@@ -23,7 +23,7 @@ module.exports = {
         return res.status(404).json({ message: "No User find with that ID!" })
       }
 
-      res.json({singleUser});
+      res.json(singleUser);
     } catch (err) {
       console.log(err);
       return res.status(500).json(err);

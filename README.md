@@ -5,7 +5,7 @@
 This purpose of this project is to build the back end for a social network web application (Friends and Thoughts) where users can share their thoughts, react to friends’ thoughts, and create a friend list. This project uses Express.js for routing, a MongoDB database, Mongoose ODM, and moment.js
 
 ## Installation
-
+- run `npm install`
 - run `npm start`
 
 ## Usage
@@ -36,6 +36,7 @@ USERS:
 
 A walkthrough video demonstrating the functionality of the application: https://drive.google.com/file/d/1-NFJvqL7Pv6ya0TN8curi-TXwnFHtcdK/view?usp=sharing
 
+![image (16)](https://github.com/Erik-Aku/Friends-And-Thoughts/assets/92487526/1896f5d6-85cb-4a21-b2bc-79085f7b66dd)
 
 
 
